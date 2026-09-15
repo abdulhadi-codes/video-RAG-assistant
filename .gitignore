@@ -1,0 +1,20 @@
+# Ignore Directories
+videos/
+audios/ 
+json/
+
+# JOBLIB Embedding File to save and call from Flask (avoids Creating embeddings repeatedly)
+embeddings.joblib
+
+# json
+output.json
+
+# Projects
+__pycache__/
+
+# IDE 
+.vscode/
+
+#.txt
+prompt.txt
+response.txt
