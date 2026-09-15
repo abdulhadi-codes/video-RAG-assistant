@@ -181,7 +181,7 @@ Then verify it  -> ollama list
 
 You will see something similar to: bge-m3
 
-git clone https://github.com/YOUR_USERNAME/video-rag-assistant.git
+git clone https://github.com/abdulhadi-codes/video-rag-assistant.git
 
 cd video-rag-assistant
 
